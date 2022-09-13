@@ -13,4 +13,4 @@ bash "${HOME}/Downloads/Solution.sh"
 
 3. You may have to reboot your system if prompted in the terminal to properly install Java Runtime Environment. After reboot start again from step 1.
 4. Navigate to http://localhost:8080/geoserver in a browser to access the GeoServer Web administration interface.
-5. To shut down GeoServer, close the persistent command-line window
+5. To shut down GeoServer, close the persistent terminal window.

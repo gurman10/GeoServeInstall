@@ -1,4 +1,4 @@
-# GeoServeInstall
+# GeoServerInstall
 
 Requirements:
 1. Reliable internet connection.

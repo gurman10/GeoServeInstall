@@ -3,7 +3,7 @@
 Requirements:
 1. Reliable internet connection.
 2. Atleast 4GB free disk space
-3. I tested it on Apple Mac with M1 chip.
+3. This project was only on MacOS with M1 chip.
 
 How to Use:
 1. Clone the repository to local drive on a mac.
